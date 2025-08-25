@@ -20,13 +20,15 @@ const About = () => (
         className="flex-col text-left p-3 md:p-5 lg:p-10 gap-5 min-h-full"
       >
         <p>
-          Hey! I&apos;m <strong>(Your Name)</strong> a web designer, developer,
+          Hey! I&apos;m <strong>Korede Ezetah-Dare</strong> a software developer, full-stack developer
           and movie enthusiast.
         </p>
         <p>
           With a background that blends design and development, I love creating
-          beautiful, functional digital experiences. I’m passionate about
+          beautiful, functional digital experiences. As a Backend Engineer, I love designing scalable systems and clean APIs; as a Frontend Developer, I bring those ideas to life with intuitive interfaces. </p>
+          <p> I’m passionate about
           crafting things that not only work well but feel great to use.
+          To me, great code and great films share the same essence: structure, creativity, and impact.
         </p>
         <p>
           I’m always up for great conversations, whether it’s about a new

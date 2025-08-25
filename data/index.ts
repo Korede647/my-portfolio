@@ -6,23 +6,27 @@ export const navItems = [
 ];
 
 export const myTechStack = [
-  "HTML",
+  "TypeScript",
+  "React",
+  "Angular",
+  "NodeJS",
+  "Express",
+  "JavaScript",
   "CSS",
-  "SCSS",
-  "Tailwind",
-  "ShadCn/UI",
-  "Figma",
-  "Framer",
-  "JavaScript (ES6+)",
+  "HTML",
+  "Git",
+  "Java",
+  "Python",
+  "SpringBoot",
+  "Dart",
+  "Flutter",
+  "System Design",
+  "React Native",
+  "Redis",
+  "MongoDB",
+  "PostgreSQL",
   "React",
   "Next.js",
-  "TypeScript",
-  "Jest",
-  "Git",
-  "TanStack Query",
-  "CI/CD",
-  "Jira",
-  "Agile",
 ];
 
 export const projects = [
@@ -157,7 +161,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "assets/git.svg",
-    link: "https://github.com/codewithty",
+    link: "https://github.com/Korede647",
   },
   {
     id: 2,
@@ -166,26 +170,31 @@ export const socialMedia = [
   },
   {
     id: 3,
-    img: "assets/web.svg",
-    link: "https://codewithty.dev",
-  },
-  {
-    id: 3,
     img: "assets/insta.svg",
-    link: "https://www.instagram.com/codewithty",
-  },
-  {
-    id: 3,
-    img: "assets/link.svg",
-    link: "https://github.com/codewithty",
-  },
+    link: "https://www.instagram.com/_sochi.fro/",
+  }
 ];
 
 export const skills = [
   "TypeScript",
   "React",
-  "Redux",
+  "Angular",
   "NodeJS",
+  "Express",
   "NextJS",
   "Tailwind",
+  "JavaScript",
+  "CSS",
+  "HTML",
+  "Git",
+  "Java",
+  "Python",
+  "SpringBoot",
+  "Dart",
+  "Flutter",
+  "System Design",
+  "React Native",
+  "Redis",
+  "MongoDB",
+  "PostgreSQL",
 ];
