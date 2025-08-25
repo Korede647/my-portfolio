@@ -9,9 +9,9 @@ const Projects = () => {
     <section id="projects" className="py-20">
       <Reveal>
          <h3>
-          Recent{" "}
+          My{" "}
           <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
-            projects.</span>
+            Projects.</span>
         </h3>
       </Reveal>
       <BentoGrid className="w-full py-20">

@@ -17,7 +17,7 @@ export default function RootLayout({
       <head>
         <link
           rel="icon"
-          href="https://codewithty.dev/images/logo.png"
+          href="/public/favicon.svg"
           sizes="any"
         />
       </head>
@@ -36,11 +36,11 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL("https://codewithty.dev"),
   title: {
-    default: "CodeWithTy ✷ Tech Development Portfolio",
+    default: "Tech Development Portfolio",
     template: "%s - CodeWithTy",
   },
   description:
-    "Professional portfolio template by CodeWithTy - showcasing expertise in web development, cybersecurity, blockchain, mobile apps, and data analysis. Build your tech career with our modern, responsive portfolio template.",
+    "Professional portfolio template showcasing expertise in web development, cybersecurity, blockchain, mobile apps, and data analysis. Build your tech career with our modern, responsive portfolio template.",
   keywords: [
     "CodeWithTy",
     "portfolio template",
@@ -57,10 +57,10 @@ export const metadata: Metadata = {
     "coding bootcamp",
   ],
   icons: {
-    icon: "./favicon.ico",
+    icon: "./favicon.svg",
     apple: "./apple-touch-icon.png",
   },
-  applicationName: "CodeWithTy Portfolio Template",
+  applicationName: "Portfolio",
   authors: [
     {
       name: "CodeWithTy Team",
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   generator: "Next.js",
   referrer: "origin",
   creator: "CodeWithTy",
-  publisher: "CodeWithTy",
+  publisher: "Korede",
   category: "technology",
 
   openGraph: {

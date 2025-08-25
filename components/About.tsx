@@ -24,8 +24,7 @@ const About = () => (
           and movie enthusiast.
         </p>
         <p>
-          With a background that blends design and development, I love creating
-          beautiful, functional digital experiences. As a Backend Engineer, I love designing scalable systems and clean APIs; as a Frontend Developer, I bring those ideas to life with intuitive interfaces. </p>
+          As a Backend Engineer, I love designing scalable systems and clean APIs; as a Frontend Developer, I bring those ideas to life with intuitive interfaces. </p>
           <p> I’m passionate about
           crafting things that not only work well but feel great to use.
           To me, great code and great films share the same essence: structure, creativity, and impact.
@@ -40,7 +39,7 @@ const About = () => (
       <div className="relative overflow-hidden rounded-3xl border border-white/[0.1] transition duration-200 shadow-input dark:shadow-none flex flex-col space-y-4 p-10">
         <p className="text-lg lg:text-3xl font-extrabold">
           <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
-            My Tech Stack!
+            My Tech Stack
           </span>
         </p>
 
