@@ -7,7 +7,7 @@ const Experience = (): JSX.Element => (
     <h3 className="title">
       My{' '}
       <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
-        experience.
+        Experience.
       </span>
     </h3>
 

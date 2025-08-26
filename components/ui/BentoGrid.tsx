@@ -26,7 +26,7 @@ interface BentoGridItemProps {
   github?: string;
   img?: string;
   titleClassName?: string;
-  techs?: string[];
+  techs: string[];
 }
 
 

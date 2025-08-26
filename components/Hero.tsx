@@ -26,7 +26,7 @@ const Hero = () => {
           I&apos;m a Software Developer
         </h2>
         <p className="max-w-[700px] mx-auto">
-          Software Developer | Backend & Frontend Engineer | App Developer
+          Software Developer | Backend & Frontend Engineer | Mobile App Developer
         </p>
         <a className="mt-10 mx-auto" href="#contact">
           <Button
