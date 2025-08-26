@@ -68,7 +68,7 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Lorem Quest: Level Up With CWT",
+    title: "Energy Mana",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, officiis, eum modi inventore natus velit voluptates laudantium nam.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
@@ -97,7 +97,7 @@ export const projects = [
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, officiis, eum modi inventore natus velit voluptates laudantium nam.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     img: "https://i.pinimg.com/originals/bf/c3/fb/bfc3fb764ff5f4d8d9ecb6da8544709c.gif",
-    github: "https://github.com/codewithty",
+    github: "https://github.com/Korede647",
     link: "https://codewithty.dev/contact",
     techs: ["JavaScript", "React", "NodeJS", "CSS", "NextJS", "GitHub"],
   },

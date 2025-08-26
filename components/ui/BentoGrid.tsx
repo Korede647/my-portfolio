@@ -1,4 +1,4 @@
-import { skills } from "@/data";
+
 import { cn } from "@/lib/utils";
 
 interface BentoGridProps {
@@ -26,6 +26,7 @@ interface BentoGridItemProps {
   github?: string;
   img?: string;
   titleClassName?: string;
+  techs?: string[];
 }
 
 
@@ -38,6 +39,7 @@ export const BentoGridItem: React.FC<BentoGridItemProps> = ({
   github,
   img,
   titleClassName,
+  techs
 }) => (
   <div
     className={cn(
@@ -104,7 +106,7 @@ export const BentoGridItem: React.FC<BentoGridItemProps> = ({
             </p>
 
             <div className="flex flex-wrap gap-2 py-1">
-              {skills.map((skill) => (
+              {techs.map((skill) => (
                 <div
                   key={skill}
                   className="bg-white/10 text-white text-sm font-semibold px-4 py-2 rounded-full shadow-lg hover:bg-white/20 transition duration-200 ease-in-out"
